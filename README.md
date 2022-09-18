@@ -13,7 +13,7 @@ A POC on react and socket io chat app.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/nathash92/react-chat-app/screenshots)
+![App Screenshot](https://github.com/nathash92/react-chat-app/blob/main/screenshots/chat.png?raw=true)
 
 
 ## Authors
